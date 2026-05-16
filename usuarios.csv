@@ -1,4 +1,4 @@
-usuarioId , nombre , nacionalidad , presupuesto_lvl , intereses , nivel_experto
+usuarioId,nombre,nacionalidad,presupuesto_lvl,intereses,nivel_experto
 1,Martin Lopez,Colombiana,3,"Aventura|Gourmet|Tecnologia",7
 2,Ana Torres,Mexicana,2,"Arte|Relax|Cultura",5
 3,Juan Perez,Argentina,4,"Gourmet|VidaNocturna|Festival",8
