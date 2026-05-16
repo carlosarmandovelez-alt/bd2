@@ -1,4 +1,4 @@
-alojamientoId , nombre , estrellas , precio_noche , tipo , pet_friendly
+alojamientoId,nombre,estrellas,precio_noche,tipo,pet_friendly
 1,Hotel Intercontinental,5,450000,Hotel,true
 2,Hostal Backpackers,2,80000,Hostal,false
 3,Hilton Garden Inn,4,320000,Hotel,true
