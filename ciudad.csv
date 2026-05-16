@@ -1,4 +1,4 @@
-ciudadId , nombre , clima_dominante , altitud , gentilicio
+ciudadId,nombre,clima_dominante,altitud,gentilicio
 1,Cali,Tropical,1018,Caleño
 2,Bogota,Frio,2640,Bogotano
 3,Medellin,Templado,1495,Medellinense
