@@ -1,0 +1,16 @@
+usuarioId,lugarId,canal,codigo_descuento
+1,3,Instagram,CRISTO10
+2,1,WhatsApp,MUSEO15
+3,5,Boca a boca,CARNE20
+4,14,Instagram,CALIMA5
+5,11,WhatsApp,ORO25
+6,9,Instagram,CAFE30
+7,10,Boca a boca,MONSE15
+8,12,WhatsApp,RIO10
+9,2,Instagram,PERRO5
+10,8,Instagram,PLAYA20
+11,11,Boca a boca,HISTORIA10
+12,10,WhatsApp,VISTA15
+13,14,Instagram,LAGO20
+14,5,Boca a boca,GOURMET25
+15,6,Instagram,COMUNA13
