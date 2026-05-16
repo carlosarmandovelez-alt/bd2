@@ -1,4 +1,4 @@
-eventoId , nombre , fecha_inicio , fecha_fin , tipo , temática , sold_out
+eventoId,nombre,fecha_inicio,fecha_fin,tipo,tematica,sold_out
 1,Feria de Cali,2026-12-25,2026-12-30,Festival,Musica,true
 2,Comic Con Bogota,2026-06-10,2026-06-14,Feria,Tecnologia,false
 3,Festival Vallenato,2026-04-20,2026-04-25,Festival,Musica,true
