@@ -1,0 +1,16 @@
+ciudadId , nombre , clima_dominante , altitud , gentilicio
+1,Cali,Tropical,1018,Caleño
+2,Bogota,Frio,2640,Bogotano
+3,Medellin,Templado,1495,Medellinense
+4,Cartagena,Calido,2,Cartagenero
+5,Barranquilla,Calido,18,Barranquillero
+6,Manizales,Frio,2150,Manizaleño
+7,Pasto,Frio,2527,Pastuso
+8,Santa Marta,Tropical,6,Samario
+9,Bucaramanga,Templado,959,Bumangues
+10,Pereira,Templado,1411,Pereirano
+11,Popayan,Templado,1760,Payanes
+12,Tunja,Frio,2820,Tunjano
+13,Armenia,Templado,1483,Armenio
+14,Neiva,Calido,442,Neivano
+15,Villavicencio,Tropical,467,Villavicense

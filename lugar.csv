@@ -1,0 +1,16 @@
+lugarId,nombre,tipo,calificacion_avg,popularidad_actual
+1,Museo La Tertulia,Museo,4.3,Alta
+2,Parque del Perro,Parque,4.1,Muy Alta
+3,Cristo Rey,Monumento,4.8,Muy Alta
+4,Zoologico de Cali,Zoologico,4.4,Alta
+5,Andres Carne de Res,Restaurante,4.9,Muy Alta
+6,Comuna 13,Sitio Cultural,4.7,Muy Alta
+7,Castillo San Felipe,Monumento,4.5,Alta
+8,Playa Blanca,Playa,4.0,Media
+9,Parque del Cafe,Parque Tematico,4.8,Muy Alta
+10,Cerro de Monserrate,Mirador,4.9,Muy Alta
+11,Museo del Oro,Museo,4.6,Alta
+12,Malecón del Rio,Paseo,4.2,Media
+13,Termales Santa Rosa,Termales,4.5,Media
+14,Lago Calima,Lago,3.9,Baja
+15,Bioparque Ukumari,Bioparque,4.4,Alta

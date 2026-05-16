@@ -1,0 +1,16 @@
+eventoId , nombre , fecha_inicio , fecha_fin , tipo , temática , sold_out
+1,Feria de Cali,2026-12-25,2026-12-30,Festival,Musica,true
+2,Comic Con Bogota,2026-06-10,2026-06-14,Feria,Tecnologia,false
+3,Festival Vallenato,2026-04-20,2026-04-25,Festival,Musica,true
+4,ExpoCafe,2026-08-01,2026-08-03,Feria,Cafe,false
+5,Cali Underground,2026-09-10,2026-09-12,Festival,Arte,false
+6,Maraton Medellin,2026-07-05,2026-07-05,Competencia,Deportes,false
+7,Festival Petronio,2026-08-15,2026-08-20,Festival,Musica,true
+8,Feria del Libro,2026-05-02,2026-05-10,Feria,Historia,false
+9,Campus Party,2026-11-01,2026-11-05,Feria,Tecnologia,false
+10,Sunset Fest,2026-07-18,2026-07-20,Festival,Relax,false
+11,Cumbre Gastronomica,2026-10-10,2026-10-12,Feria,Gourmet,false
+12,Trail Running Cali,2026-06-22,2026-06-22,Competencia,Aventura,false
+13,Festival de Teatro,2026-09-01,2026-09-07,Festival,Arte,true
+14,Feria Artesanal,2026-08-20,2026-08-25,Feria,Cultura,false
+15,Concierto del Pacifico,2026-12-01,2026-12-01,Concierto,Musica,true

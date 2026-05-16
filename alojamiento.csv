@@ -1,0 +1,16 @@
+alojamientoId , nombre , estrellas , precio_noche , tipo , pet_friendly
+1,Hotel Intercontinental,5,450000,Hotel,true
+2,Hostal Backpackers,2,80000,Hostal,false
+3,Hilton Garden Inn,4,320000,Hotel,true
+4,Eco Lodge Calima,3,210000,Cabaña,true
+5,Hotel Dann Carlton,5,500000,Hotel,false
+6,Ayenda Central,3,150000,Hotel,true
+7,Selina Medellin,4,280000,Hostal,true
+8,Hotel Caribe,5,550000,Hotel,false
+9,Casa Relax Boutique,4,260000,Hotel,true
+10,Hostel Ruta 40,2,70000,Hostal,false
+11,Movich Buró,5,480000,Hotel,true
+12,Decameron Baru,5,650000,Resort,false
+13,Glamping Stars,4,350000,Glamping,true
+14,Hotel Tequendama,5,430000,Hotel,false
+15,Cabañas del Lago,3,190000,Cabaña,true
