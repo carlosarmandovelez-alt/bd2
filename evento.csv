@@ -14,3 +14,13 @@ eventoId,nombre,fecha_inicio,fecha_fin,tipo,tematica,sold_out
 13,Festival de Teatro,2026-09-01,2026-09-07,Festival,Arte,true
 14,Feria Artesanal,2026-08-20,2026-08-25,Feria,Cultura,false
 15,Concierto del Pacifico,2026-12-01,2026-12-01,Concierto,Musica,true
+16,Festival de Jazz,2026-08-10,2026-08-12,Musical,Jazz,false
+17,Feria del Libro,2026-09-01,2026-09-10,Cultural,Literatura,false
+18,Comic Con Colombia,2026-07-15,2026-07-18,Tecnologia,Entretenimiento,false
+19,Festival Gastronomico,2026-10-02,2026-10-05,Gastronomia,Comida,false
+20,Cumbre de Innovacion,2026-11-12,2026-11-14,Empresarial,Tecnologia,false
+21,Festival de Salsa,2026-06-20,2026-06-22,Musical,Salsa,false
+22,ExpoArte,2026-12-01,2026-12-04,Cultural,Arte,false
+23,Carrera Verde,2026-08-25,2026-08-25,Deportivo,Ecologia,false
+24,Concierto Sinfonico,2026-07-02,2026-07-02,Musical,Clasica,false
+25,Festival del Cafe,2026-09-18,2026-09-20,Gastronomia,Cafe,false
