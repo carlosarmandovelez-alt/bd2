@@ -24,13 +24,3 @@ lugarId,nombre,tipo,calificacion_avg,popularidad_actual
 23,Parque Arvi,Ecoturismo,4.7,Alta
 24,Acuaparque de la Cana,Parque Acuatico,3.9,Baja
 25,Mirador de Chipre,Mirador,4.4,Media
-26,Festival de Jazz,2026-08-10,2026-08-12,Musical,Jazz,false
-27,Feria del Libro,2026-09-01,2026-09-10,Cultural,Literatura,false
-28,Comic Con Colombia,2026-07-15,2026-07-18,Tecnologia,Entretenimiento,false
-29,Festival Gastronomico,2026-10-02,2026-10-05,Gastronomia,Comida,false
-30,Cumbre de Innovacion,2026-11-12,2026-11-14,Empresarial,Tecnologia,false
-31,Festival de Salsa,2026-06-20,2026-06-22,Musical,Salsa,false
-32,ExpoArte,2026-12-01,2026-12-04,Cultural,Arte,false
-33,Carrera Verde,2026-08-25,2026-08-25,Deportivo,Ecologia,false
-34,Concierto Sinfonico,2026-07-02,2026-07-02,Musical,Clasica,false
-35,Festival del Cafe,2026-09-18,2026-09-20,Gastronomia,Cafe,false
